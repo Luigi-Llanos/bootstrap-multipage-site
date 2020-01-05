@@ -1,1 +1,1 @@
-# bootstrap-onepage-site-parallax
+# bootstrap-multiplepage-site
